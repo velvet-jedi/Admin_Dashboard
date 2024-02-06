@@ -1,2 +1,2 @@
 ### Live Project
-Check it out [here]([https://velvet-jedi.github.io/Admin_Dashboard/).
+Check out the live project [here](https://velvet-jedi.github.io/Admin_Dashboard/).
